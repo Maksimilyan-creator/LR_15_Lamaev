@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "741657216855",
+    "firebase_url": "https://lr15game-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lr15game",
+    "storage_bucket": "lr15game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741657216855:android:5cd6004cf96217977ee012",
+        "android_client_info": {
+          "package_name": "com.example.lr_15_lamaev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC74_GbiGRCds3EufZIboxXNtFVtO_gPEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

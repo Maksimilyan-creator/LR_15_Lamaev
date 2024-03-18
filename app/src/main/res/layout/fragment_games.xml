@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GamesFragment">
+
+    <ListView
+        android:id="@+id/gameList"
+        android:layout_width="match_parent"
+        android:layout_height="620dp"
+        android:layout_marginBottom="15dp"/>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/addBt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="650dp"
+        android:src="@drawable/add"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="@color/blue"/>
+
+</FrameLayout>
